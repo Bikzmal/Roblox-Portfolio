@@ -1,5 +1,5 @@
 # Roblox-Portfolio
-A collection of Roblox systems and frameworks I've built.
+A collection of Roblox systems and frameworks I've built. Demo and video links are included for each repo.
 
 # Portfolio
 
